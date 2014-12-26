@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!DOCTYPE CodeBlocks_workspace_file>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="DOSimple_dynamic.cbp"/>
+		<Project filename="DOSimple_static.cbp"/>
+		<Project filename="testAPP_dynamic.cbp"/>
+		<Project filename="testAPP_static.cbp" active="1"/>
+	</Workspace>
+</CodeBlocks_workspace_file>

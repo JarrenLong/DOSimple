@@ -1,0 +1,34 @@
+===========================|
+Simple Console C++ Library |
+Version 3.0b Final Release |
+                           |
+Copyright(c)2007 JincS, Inc|
+Created by Jarren Long.    |
+===========================|
+
+This is a free function library, but
+please distribute this readme file with
+the SimpCon.h header file. Please contact
+me at vbslong@gmail.com if you plan to use
+this library in any commercial application.
+Other than that, have fun!
+
+===========================|
+How to Compile:            |
+===========================|
+1.) Open up the "DOSimple4.workspace" file in Code::Blocks IDE
+2.) Menu: "Build > Build Workspace"
+3.) All projects and files will automatically compile and be placed in 
+subdirectories under the working directory (they directory the 
+.workspace file is in).
+
+Happy Coding :) 
+~JincS, Inc.
+
+===========================|
+Simple Console C++ Library |
+Version 3.0b Final Release |
+                           |
+Copyright(c)2007 JincS, Inc|
+Created by Jarren Long.    |
+===========================|

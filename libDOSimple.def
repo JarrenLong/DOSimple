@@ -1,0 +1,13 @@
+EXPORTS
+    DS_DOSProgress@36 @1
+    DS_Delay@4 @2
+    DS_Destroy@4 @3
+    DS_Fullscreen@0 @4
+    DS_GotoXY@20 @5
+    DS_Init@4 @6
+    DS_Output@28 @7
+    DS_Pause@4 @8
+    DS_SetColor@16 @9
+    DS_ShowCursor@16 @10
+    DS_Title@4 @11
+    DS_Type@8 @12
